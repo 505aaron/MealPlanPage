@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 [params]
   title = "Meal Prep"
-  logo = "fa-diamond"
+  logo = "fa-cutlery"
   copyright = "Meal Prep"
 
 [[params.social]]
