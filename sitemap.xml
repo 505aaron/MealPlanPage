@@ -3,17 +3,29 @@
 
   
   <url>
-    <loc>http://example.org/#</loc>
+    <loc>https://505aaron.github.io/MealPlanPage//#privacy</loc>
+    <lastmod>2017-07-30T13:12:17-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://505aaron.github.io/MealPlanPage//#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/#</loc>
+    <loc>https://505aaron.github.io/MealPlanPage//#</loc>
+    <lastmod>2017-07-30T13:12:17-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/#</loc>
+    <loc>https://505aaron.github.io/MealPlanPage//#</loc>
+    <lastmod>2017-07-30T13:12:17-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://505aaron.github.io/MealPlanPage//#</loc>
     <priority>0</priority>
   </url>
   
