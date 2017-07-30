@@ -1,4 +1,4 @@
-baseurl = "http://example.org"
+baseurl = "https://505aaron.github.io/MealPlanPage/"
 title = "Meal Prep App"
 theme = "dimension"
 languageCode = "en-us"
