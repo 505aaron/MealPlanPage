@@ -1,7 +1,6 @@
 ---
 title: "Privacy"
-date: 2017-07-21T11:33:04-06:00
-draft: true
+date: 2017-07-30T13:12:17-06:00
 ---
 
 <h2>Meal Plan Privacy</h2>
