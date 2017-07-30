@@ -4,7 +4,6 @@ theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-canonifyURLs = true
 
 [params]
   title = "Meal Prep"
