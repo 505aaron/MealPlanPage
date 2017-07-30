@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meal Prep</title>
-    <link>https://505aaron.github.io/MealPlanPage/</link>
+    <link>https://505aaron.github.io/MealPrep/</link>
     <description>Recent content on Meal Prep</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Meal Prep</copyright>
     <lastBuildDate>Sun, 30 Jul 2017 13:12:17 -0600</lastBuildDate>
     
-	<atom:link href="https://505aaron.github.io/MealPlanPage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://505aaron.github.io/MealPrep/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Privacy</title>
-      <link>https://505aaron.github.io/MealPlanPage/legal/privacy/</link>
+      <link>https://505aaron.github.io/MealPrep/legal/privacy/</link>
       <pubDate>Sun, 30 Jul 2017 13:12:17 -0600</pubDate>
       
-      <guid>https://505aaron.github.io/MealPlanPage/legal/privacy/</guid>
+      <guid>https://505aaron.github.io/MealPrep/legal/privacy/</guid>
       <description>Meal Plan Privacy This Privacy Policy explains how information about you is collected, used and disclosed by Meal Plan (“MealPlan”) when you use the mobile application (the “App”).
 By accepting our Privacy Policy, you agree to let MealPlan collect, use and disclose information about you in accordance with the purposes listed below. The App is not intended for use by children under 13 and we do not knowingly collect personal information from children under 13.</description>
     </item>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://505aaron.github.io/MealPlanPage//sitemap.xml
+Sitemap: https://505aaron.github.io/MealPrep//sitemap.xml
