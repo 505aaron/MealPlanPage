@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Meal Prep</title>
+    <title>Tags on Meal Prep Planner and Diary</title>
     <link>https://505aaron.github.io/MealPrep/tags/</link>
-    <description>Recent content in Tags on Meal Prep</description>
+    <description>Recent content in Tags on Meal Prep Planner and Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Meal Prep</copyright>
+    <copyright>Aaron Cordova</copyright>
     
 	<atom:link href="https://505aaron.github.io/MealPrep/tags/index.xml" rel="self" type="application/rss+xml" />
     
