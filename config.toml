@@ -1,14 +1,14 @@
 baseurl = "https://505aaron.github.io/MealPrep/"
-title = "Meal Prep App"
+title = "Meal Prep Planner and Diary"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 
 [params]
-  title = "Meal Prep"
+  title = "Meal Prep Planner and Diary"
   logo = "fa-cutlery"
-  copyright = "Meal Prep"
+  copyright = "Aaron Cordova"
 
 [[params.social]]
   medium = "twitter"
@@ -34,4 +34,4 @@ enableRobotsTXT = true
 [languages.en]
 languageName = "English"
 weight = 1
-title = "Meal Prep"
+title = "Meal Prep Planner and Diary"
